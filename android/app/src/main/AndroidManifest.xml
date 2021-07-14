@@ -6,7 +6,7 @@
         android:label="latihan_google_map"
         android:icon="@mipmap/ic_launcher">
            <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBMCZ6-0aA6ZU1Ij0h5ZvR3MYQC9-kSQL8"/>
+               android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
