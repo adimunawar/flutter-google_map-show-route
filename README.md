@@ -1,7 +1,6 @@
-# latihan_google_map
+# Creating a route calculator using Google Maps in Flutter
 
-A new Flutter project.
-
+Creating a route calculator using Google Maps in Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
