@@ -1,6 +1,11 @@
 # Creating a route calculator using Google Maps in Flutter
 
 Creating a route calculator using Google Maps in Flutter
+
+
+
+<img src="https://user-images.githubusercontent.com/36073952/126069365-2a65a1dd-07c6-4d5d-a08d-41300d253704.jpeg" width="200" height="380">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
